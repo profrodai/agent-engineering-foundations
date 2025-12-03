@@ -1,5 +1,4 @@
 # 🧠 Agent Engineering Foundations  
-*Module 1 of the Agent Engineering Program*
 
 Welcome to the open-source home of **Agent Engineering Foundations**. It is a practical, engineering-first introduction to building AI agents that operate in the real world.
 
